@@ -7,7 +7,7 @@
 <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></td>
-    <td rowspan="2">📱 8+ yeaers of professional expirence</td>
+    <td rowspan="2">📱 8+ yeaers of professional expirence with Android</td>
   </tr>
 </table>
       
