@@ -2,8 +2,6 @@
 
 📱 **Android Engineer** who enjoys dabbling in **Full-Stack Development** using technologies like **React**, **Spring Boot**, **AWS**, **Docker**, **iOS**, and more.  
 
----
-
 ## 🛠️ Programming Languages  
 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">  
@@ -12,8 +10,6 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
 </a>  
-
----
 
 ## 🔧 Technologies  
 
@@ -33,8 +29,6 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>  
 </a>  
 
----
-
 ## 🌱 Currently Learning  
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  
@@ -43,14 +37,6 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>  
 </a>  
-
----
-
-### 🌐 Find Me  
-- **[LinkedIn](https://www.linkedin.com/in/cjmobileapps/)**  
-- **[GitHub](https://github.com/CJMobileApps)**  
-
----
 
 ### 📈 Stats  
 
