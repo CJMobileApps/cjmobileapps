@@ -8,7 +8,7 @@
 
 ## 🔧 Technologies  
 
-[![Technologies ](https://skillicons.dev/icons?i=androidstudio,aws,postgres,spring,linux,gradle)](https://skillicons.dev)
+[![Technologies ](https://skillicons.dev/icons?i=androidstudio,aws,postgres,spring,linux,docker,gradle)](https://skillicons.dev)
 
 <a href="https://circleci.com" target="_blank" rel="noreferrer">  
   <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CircleCI" width="40" height="40"/>  
