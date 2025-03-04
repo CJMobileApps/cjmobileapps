@@ -16,4 +16,4 @@
 
 ## 🌱 Currently Learning  
 
-[![Currently Learning  ](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+[![Currently Learning  ](https://skillicons.dev/icons?i=c,cpp,rust)](https://skillicons.dev)
